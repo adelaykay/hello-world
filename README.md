@@ -1,5 +1,5 @@
 # hello-world
-ideas, tutorial practice
+Where it all began
 
 Hello World! I'm Laykay and I'm a Nigerian.
 I started a course in computer science and programming at Havard University through
